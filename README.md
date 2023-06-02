@@ -1,4 +1,3 @@
-# Final_Project
 Self-Assessment 
 For this project, I was grouped with 2 other classmates. First, we discussed what topic we wanted to talk about. We came up with a few topics then we narrowed it down to 3. After a long discussion we decided to go with Art. We decided on art because there are a lot of data/datasets available to test different scenarios and theories.
 My role was to create visualizations using Tableau. I chose Tableau because it is one of the most popular data visualizations tools out there. During the project, I encountered a few challenges. One of them was that I wanted to create a map that shows the countries or regions where the artists are from. To do that, I need to know the latitude and longitude, but my data did not provide it. So, I got a little frustrated, but I did not give up. I did a little research, and I was able to figure out how to do it. 
